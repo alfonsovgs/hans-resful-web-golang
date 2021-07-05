@@ -29,6 +29,7 @@ require (
 	github.com/revel/pathtree v0.0.0-20140121041023-41257a1839e9 // indirect
 	github.com/revel/revel v1.0.0 // indirect
 	github.com/spf13/cobra v1.1.3 // indirect
+	github.com/streadway/amqp v1.0.0 // indirect
 	github.com/twinj/uuid v1.0.0 // indirect
 	github.com/urfave/cli v1.22.5 // indirect
 	github.com/xeonx/timeago v1.0.0-rc4 // indirect
