@@ -6,7 +6,7 @@ require (
 	github.com/asim/go-micro/v3 v3.5.2
 	github.com/emicklei/go-restful v2.16.0+incompatible
 	github.com/garyburd/redigo v1.6.2 // indirect
-	github.com/gin-gonic/gin v1.7.2
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.2.0
