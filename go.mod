@@ -28,7 +28,7 @@ require (
 	github.com/streadway/amqp v1.0.0
 	github.com/urfave/cli v1.22.5
 	go.mongodb.org/mongo-driver v1.5.3
-	golang.org/x/net v0.0.0-20210510120150-4163338589ed
+	golang.org/x/net v0.7.0
 	google.golang.org/grpc v1.39.0
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/boj/redistore.v1 v1.0.0-20160128113310-fc113767cd6b
