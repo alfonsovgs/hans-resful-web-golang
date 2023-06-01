@@ -6,7 +6,7 @@ require (
 	github.com/asim/go-micro/v3 v3.5.2
 	github.com/emicklei/go-restful v2.16.0+incompatible
 	github.com/garyburd/redigo v1.6.2 // indirect
-	github.com/gin-gonic/gin v1.7.7
+	github.com/gin-gonic/gin v1.9.1
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/golang/protobuf v1.5.2
 	github.com/google/uuid v1.2.0
@@ -17,7 +17,6 @@ require (
 	github.com/graphql-go/graphql v0.7.9
 	github.com/graphql-go/handler v0.2.3
 	github.com/jinzhu/gorm v1.9.16
-	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/justinas/alice v1.2.0
 	github.com/levigross/grequests v0.0.0-20190908174114-253788527a1a
@@ -28,8 +27,8 @@ require (
 	github.com/streadway/amqp v1.0.0
 	github.com/urfave/cli v1.22.5
 	go.mongodb.org/mongo-driver v1.5.3
-	golang.org/x/net v0.7.0
+	golang.org/x/net v0.10.0
 	google.golang.org/grpc v1.39.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.30.0
 	gopkg.in/boj/redistore.v1 v1.0.0-20160128113310-fc113767cd6b
 )
